@@ -1,6 +1,5 @@
-file: class.db.php
-
-DBServer = 'localhost';
-DBName = 'payment';
-DBUser = 'root';
-DBPass = '';
+FileName: class.db.php
+DBServer: 'localhost';
+DBName: 'payment';
+DBUser: 'root';
+DBPass: '';
